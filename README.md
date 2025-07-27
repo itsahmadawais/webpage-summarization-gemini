@@ -1,5 +1,7 @@
 # 🧠 Web Page Summarizer (React + Express + Gemini AI)
 
+![Web Page Summarizer Screenshot](screenshot.png)
+
 A full-stack monorepo application that summarizes any web page content using Google's Gemini Pro AI model. Built with React, Express, and the Gemini SDK.
 
 ---
