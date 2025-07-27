@@ -1,0 +1,10 @@
+# Node modules
+node_modules/
+
+# Env variables
+.env
+*.env
+
+# Build output (if using TypeScript)
+dist/
+build/
